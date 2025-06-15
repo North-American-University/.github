@@ -9,8 +9,6 @@ This space is dedicated to showcasing our academic software projects, student co
 
 | Repository | Description |
 |------------|-------------|
-| [**nau-cs-frontend**](https://github.com/NAU-It/nau-cs-frontend) | 🌐 Frontend website of the CS Department using HTML, CSS, JS |
-| [**cs-webpage---BACKEND**](https://github.com/North-American-University/CS-webpage---BACKEND) | ⚙️ Django REST API backend managing data for courses, faculty, and events |
 | [**nau-algorithms**](https://github.com/NAU-It/nau-algorithms) *(planned)* | 🧠 Data structures & algorithms in Python/C++ |
 | [**nau-study-guides**](https://github.com/NAU-It/nau-study-guides) *(planned)* | 📘 Study notes, books, and curated GitHub forks for learning |
 
